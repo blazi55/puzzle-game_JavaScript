@@ -1,4 +1,4 @@
-const gameTitle = document.querySelectorAll('.title');
+        const gameTitle = document.querySelectorAll('.title');
 
         const gameBoard = document.querySelector('#game_board');
 
